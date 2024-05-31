@@ -15,6 +15,8 @@ public class Aaa {
 		
 		System.out.println("bbb");
 		System.out.println("555");
+		
+		System.out.println("000");
 
 
 	}
