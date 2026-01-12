@@ -5,6 +5,8 @@ public class Baa {
 	public static void main(String[] args) {
 		
 		System.out.println("Baa");
+		
+		System.out.println("1111");
 
 
 	}
